@@ -1,0 +1,46 @@
+.pageHeader {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.granvilleRep__name {
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+.granvilleRep__image {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 10px;
+}
+
+.granvilleRep__districtInfo {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.granvilleRep__politicalAffiliation {
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+.granvilleRep__committees {
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+.granvilleRep__committeesOne {
+    margin-left: 300px;
+}
+
+.granvilleRep__committeesTwo {
+    margin-left: 300px;
+}
+
+.granvilleRep__legislation {
+    text-align: center;
+}
+
+.granvilleRep__legislationList {
+    margin-left: 300px;
+}
